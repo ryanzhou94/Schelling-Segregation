@@ -1,0 +1,2 @@
+# Schelling-Segregation
+Haskell Coursework
